@@ -1,0 +1,12 @@
+# Pinned environment recreated for working with this repository (Python 3.12).
+# The original analysis was run in Google Colab, and the exact package
+# versions used there were not recorded. This is not that environment.
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+xgboost==3.4.1
+lightgbm==4.7.0
+shap==0.52.0
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter==1.1.1

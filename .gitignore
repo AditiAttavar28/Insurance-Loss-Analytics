@@ -1,0 +1,11 @@
+# Local outputs and reference copies
+outputs/
+_reference/
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# macOS
+.DS_Store
